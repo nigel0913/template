@@ -66,6 +66,7 @@
     <ClInclude Include="stack2.hpp" />
     <ClInclude Include="stack3.hpp" />
     <ClInclude Include="stack3test.h" />
+    <ClInclude Include="stack4.hpp" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />

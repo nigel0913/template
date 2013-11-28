@@ -27,6 +27,8 @@ _ReSharper*/
 [Tt]est[Rr]esult*
 *.vssscc
 $tf*/
+
+# my ignore
 *.opensdf
 *.sdf
 ipch/

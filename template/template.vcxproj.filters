@@ -13,5 +13,25 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="头文件\basics">
+      <UniqueIdentifier>{297c0964-39a9-498e-8b27-7a7f330a8e89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\basics\hpp">
+      <UniqueIdentifier>{577168b6-a0a1-4255-a02f-5c1c907b441e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\basics\h">
+      <UniqueIdentifier>{4ed134ba-6be8-4246-9a3f-2974985e1bf7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\basics">
+      <UniqueIdentifier>{c81520d0-853a-431f-9e01-3137b158c4d0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stack1.hpp">
+      <Filter>头文件\basics\hpp</Filter>
+    </ClInclude>
+    <ClInclude Include="max.hpp">
+      <Filter>头文件\basics\hpp</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

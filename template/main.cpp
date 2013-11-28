@@ -1,9 +1,9 @@
-#include "stack1test.h"
+#include "stack3test.h"
 #include <cstdio>
 
 int main()
 {
-	test_stack();
+	test_stack3();
 	getchar();
 	return 0;
 }

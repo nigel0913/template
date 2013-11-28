@@ -4,7 +4,7 @@
 #include <cstdlib>
 #include "stack1.hpp"
 
-void test_stack()
+void test_stack1()
 {
 	try {
 		Stack<int> intStack;

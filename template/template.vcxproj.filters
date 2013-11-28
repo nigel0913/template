@@ -33,5 +33,16 @@
     <ClInclude Include="max.hpp">
       <Filter>头文件\basics\hpp</Filter>
     </ClInclude>
+    <ClInclude Include="stack1test.h">
+      <Filter>头文件\basics\h</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stack1test.cpp">
+      <Filter>源文件\basics</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

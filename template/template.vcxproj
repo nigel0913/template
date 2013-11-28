@@ -62,6 +62,11 @@
   <ItemGroup>
     <ClInclude Include="max.hpp" />
     <ClInclude Include="stack1.hpp" />
+    <ClInclude Include="stack1test.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="stack1test.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

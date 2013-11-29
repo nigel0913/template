@@ -57,6 +57,12 @@
     <ClInclude Include="stack8test.h">
       <Filter>头文件\basics\h</Filter>
     </ClInclude>
+    <ClInclude Include="max5.hpp">
+      <Filter>头文件\basics\hpp</Filter>
+    </ClInclude>
+    <ClInclude Include="max5test.h">
+      <Filter>头文件\basics\h</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stack1test.cpp">
@@ -72,6 +78,9 @@
       <Filter>源文件\basics</Filter>
     </ClCompile>
     <ClCompile Include="stack8test.cpp">
+      <Filter>源文件\basics</Filter>
+    </ClCompile>
+    <ClCompile Include="max5test.cpp">
       <Filter>源文件\basics</Filter>
     </ClCompile>
   </ItemGroup>

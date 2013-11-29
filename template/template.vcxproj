@@ -61,6 +61,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="max.hpp" />
+    <ClInclude Include="max5.hpp" />
+    <ClInclude Include="max5test.h" />
     <ClInclude Include="stack1.hpp" />
     <ClInclude Include="stack1test.h" />
     <ClInclude Include="stack2.hpp" />
@@ -73,6 +75,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="max5test.cpp" />
     <ClCompile Include="stack1test.cpp" />
     <ClCompile Include="stack3test.cpp" />
     <ClCompile Include="stack4test.cpp" />

@@ -46,7 +46,7 @@ void Stack<T, MAXSIZE>::pop()
 }
 
 template <typename T, int MAXSIZE>
-T Stack<T,MAXSIZE>::top()
+T Stack<T,MAXSIZE>::top()const
 {
 	if (numElems <= 0) {
 		throw std::out_of_range("Stack<>::top(): empty stack");

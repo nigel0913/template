@@ -48,6 +48,9 @@
     <ClInclude Include="stack4.hpp">
       <Filter>头文件\basics\hpp</Filter>
     </ClInclude>
+    <ClInclude Include="stack4test.h">
+      <Filter>头文件\basics\h</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stack1test.cpp">
@@ -57,6 +60,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="stack3test.cpp">
+      <Filter>源文件\basics</Filter>
+    </ClCompile>
+    <ClCompile Include="stack4test.cpp">
       <Filter>源文件\basics</Filter>
     </ClCompile>
   </ItemGroup>

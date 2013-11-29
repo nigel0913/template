@@ -63,6 +63,7 @@
     <ClInclude Include="max.hpp" />
     <ClInclude Include="max5.hpp" />
     <ClInclude Include="max5test.h" />
+    <ClInclude Include="refnonref.hpp" />
     <ClInclude Include="stack1.hpp" />
     <ClInclude Include="stack1test.h" />
     <ClInclude Include="stack2.hpp" />

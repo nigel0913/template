@@ -63,6 +63,9 @@
     <ClInclude Include="max5test.h">
       <Filter>头文件\basics\h</Filter>
     </ClInclude>
+    <ClInclude Include="refnonref.hpp">
+      <Filter>头文件\basics\hpp</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stack1test.cpp">

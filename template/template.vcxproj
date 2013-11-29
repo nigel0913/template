@@ -68,12 +68,15 @@
     <ClInclude Include="stack3test.h" />
     <ClInclude Include="stack4.hpp" />
     <ClInclude Include="stack4test.h" />
+    <ClInclude Include="stack8.hpp" />
+    <ClInclude Include="stack8test.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="stack1test.cpp" />
     <ClCompile Include="stack3test.cpp" />
     <ClCompile Include="stack4test.cpp" />
+    <ClCompile Include="stack8test.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
